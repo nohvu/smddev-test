@@ -1,0 +1,21 @@
+.container {
+  height: 100vh;
+
+  .form {
+    background-color: rgb(240, 237, 237);
+    width: 60%;
+    margin: 20px auto;
+    border: 1px solid lightgrey;
+    border-radius: 20px;
+    padding: 40px;
+    .label {
+      font-weight: bold;
+    }
+    button {
+      width: 100%;
+    }
+    h1 {
+      margin-bottom: 40px;
+    }
+  }
+}
